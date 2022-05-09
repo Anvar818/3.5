@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(250, 229, 133);
+}
+
+.title{
+    font-weight: 700;
+    font-size: 72px;
+    text-align: center;
+    color: rgb(0, 88, 252);
+    background-color: rgb(96, 255, 3);
+}
